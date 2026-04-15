@@ -6,6 +6,7 @@
 //let myame = "Amina"
 //console.log(myName)
 
+//another file
 //type error
 //let age = 25
 //console.log(age.toString().toUpperCase)
